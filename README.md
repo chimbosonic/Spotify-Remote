@@ -28,7 +28,7 @@ You will need to create a Spotify Client ID [here](https://developer.spotify.com
 After you have created the Client ID you will need to create a file called Secrets.py . You can use the example template. The Redirect_URI can be anything you like but localhost is recommended.
 
 To get your initial Authentication token run:
-```
+```bash
 make auth
 ```
 Make sure to follow the on screen instrutions.
@@ -69,7 +69,7 @@ make list-playlist
 make search-track SEARCH="Search Terms"
 ```
 
-### Search for playlists
+### Search for playlists
 ```bash
 make search-playlist SEARCH="Search Terms"
 ```
