@@ -61,7 +61,7 @@ make status
 ```
 
 ### List Current Users Playlists
-```bash
+```bas
 make list-playlist
 ```
 ### Search for Track
