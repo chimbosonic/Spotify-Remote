@@ -1,5 +1,7 @@
 # Spotify Remote Control Via Curl, Make and Jq
 
+Caution this is no longer maintained and probably no longer works
+
 This project was created for the purpose of controlling a Spotify device from the command line regardless of Operating System.
 
 It uses Spotify's WebApi to achieve this. The Authentication flow is made easy by using a small python script that uses spotipy library.
